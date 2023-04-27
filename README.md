@@ -1,3 +1,5 @@
+![logo] (https://github.com/M2muserGit/M2muserGit/blob/main/Pardeep%20Sharma.png)
+
 <h1 align="center">Hi 👋, I'm Pardeep Sharma</h1>
 <h3 align="center">IT Engineer with 7+ Years of Experience</h3>
 
